@@ -725,3 +725,18 @@ body {
   object-position: center;
   width: 100%;
 }
+
+.hero-image-1-background {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-image-1-image {
+  position: relative;
+  object-position: center;
+  width: 100%;
+}
